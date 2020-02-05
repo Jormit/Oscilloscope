@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jordan/ClionProjects/fft/kiss_fft/kiss_fft.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+string.h
+-
+xmmintrin.h
+-
+stdint.h
+-
+
+C:/Users/jordan/ClionProjects/fft/main.cpp
+cstdint
+-
+SDL2/SDL.h
+-
+portaudio.h
+-
+kiss_fft/kiss_fft.h
+C:/Users/jordan/ClionProjects/fft/kiss_fft/kiss_fft.h
+cmath
+-
+

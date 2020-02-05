@@ -1,0 +1,3 @@
+C:/Users/jordan/ClionProjects/fft/cmake-build-debug-mingw32/CMakeFiles/fft.dir
+C:/Users/jordan/ClionProjects/fft/cmake-build-debug-mingw32/CMakeFiles/edit_cache.dir
+C:/Users/jordan/ClionProjects/fft/cmake-build-debug-mingw32/CMakeFiles/rebuild_cache.dir
